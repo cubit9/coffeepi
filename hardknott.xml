@@ -29,7 +29,7 @@
 
     <project name="meta-coffeepi"
         remote="coffeepi"
-        revision="hardknott"
+        revision="master"
         path="sources/meta-coffeepi"/>
 
 </manifest>
